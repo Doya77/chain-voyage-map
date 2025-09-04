@@ -25,6 +25,7 @@ const Login = () => {
         {/* Hero Section */}
         <div className="text-center lg:text-left space-y-6">
           <div className="flex items-center justify-center lg:justify-start gap-3 mb-8">
+            
             <div className="p-3 bg-primary-foreground/10 rounded-xl">
               <Globe className="h-8 w-8 text-primary-foreground" />
             </div>
@@ -39,7 +40,7 @@ const Login = () => {
           
           <p className="text-xl text-primary-foreground/80 max-w-2xl">
             Track, monitor, and optimize your entire supply chain with real-time visibility, 
-            blockchain-verified authenticity, and AI-powered predictive analytics.
+            and AI-powered predictive analytics.
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
@@ -57,10 +58,7 @@ const Login = () => {
               <div className="p-2 bg-primary-foreground/10 rounded-lg">
                 <Shield className="h-5 w-5 text-primary-foreground" />
               </div>
-              <div>
-                <h3 className="font-semibold text-primary-foreground">Blockchain Verified</h3>
-                <p className="text-sm text-primary-foreground/70">Immutable records</p>
-              </div>
+  
             </div>
             
             <div className="flex items-center gap-3">
