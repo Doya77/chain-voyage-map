@@ -29,7 +29,7 @@ const Login = () => {
             <div className="p-3 bg-primary-foreground/10 rounded-xl">
               <Globe className="h-8 w-8 text-primary-foreground" />
             </div>
-            <h1 className="text-3xl font-bold text-primary-foreground">SupplyChain Pro</h1>
+            <h1 className="text-3xl font-bold text-primary-foreground">zyntrack</h1>
           </div>
           
           <h2 className="text-4xl lg:text-5xl font-bold text-primary-foreground leading-tight">
